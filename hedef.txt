@@ -1,0 +1,5 @@
+bu projenin hedefi:
+Bir telefon rehberi oluşturmak, onu bir EC2 üzerinde çalıştırmaktır.
+Bu maksatla bir yml dosyası oluşturuldu. 
+Telefon rehberi pyton programı ile yazıldı.
+Tarih: 07.11.2021
